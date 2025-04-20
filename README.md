@@ -22,7 +22,7 @@ Welcome to **Dragon Game**, an exciting browser-based game where you control a d
 
 ## Play Game
 
-Play the live version of the game here: [Play Now](#)
+Play the live version of the game here: [Play Now](https://amanhaidry.github.io/DragonGame/)
 
 ## Technologies Used
 
